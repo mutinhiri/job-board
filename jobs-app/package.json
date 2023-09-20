@@ -12,6 +12,7 @@
     "format:fix": "npm run prettier -- --write"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
     "@types/node": "20.6.3",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
